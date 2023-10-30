@@ -1,0 +1,42 @@
+
+\
+java:S1192X"FDefine a constant instead of duplicating this literal "DEBUG" 5 times.(»šê
+a
+java:S1192T"FDefine a constant instead of duplicating this literal "ERROR" 7 times.(Íàåâşÿÿÿÿ
+\
+java:S1192W"FDefine a constant instead of duplicating this literal "FATAL" 5 times.(§ÒÕö
+P
+java:S1118":Add a private constructor to hide the implicit public one.(—ãü
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(àŸÓ€
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(îçûš
+l
+java:S3457K"Q%n should be used in place of \n to produce the platform-specific line separator.(í’Áşÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(í’Áşÿÿÿÿ
+S
+java:S1612N">Replace this lambda with method reference 'Integer::intValue'.(Á•±>
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(Èæ°É
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(îİÅö
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(Î†‹ûşÿÿÿÿ
+l
+java:S3457T"Q%n should be used in place of \n to produce the platform-specific line separator.(Íàåâşÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(Íàåâşÿÿÿÿ
+g
+java:S3457U"Q%n should be used in place of \n to produce the platform-specific line separator.(ˆŸŸÌ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(ˆŸŸÌ
+g
+java:S3457V"Q%n should be used in place of \n to produce the platform-specific line separator.(ıÃŸ§
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ıÃŸ§
+g
+java:S3457W"Q%n should be used in place of \n to produce the platform-specific line separator.(§ÒÕö
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(§ÒÕö
+g
+java:S3457X"Q%n should be used in place of \n to produce the platform-specific line separator.(»šê
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(»šê
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(ª·ªöüÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(Ü£µ´
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(õõ”Íøÿÿÿÿ
+[
+java:S1612]"@Replace this lambda with method reference 'System.out::println'.(‹­Îäøÿÿÿÿ
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(‹­Îäøÿÿÿÿ8¯Ú·í·1
+h
+java:S3776f"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¹í¢È
